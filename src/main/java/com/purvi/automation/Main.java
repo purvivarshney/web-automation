@@ -1,8 +1,5 @@
 package com.purvi.automation;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.purvi.automation.model.CredentialData;
 import com.purvi.automation.model.LocatorData;
 import com.purvi.automation.model.WebsiteData;
